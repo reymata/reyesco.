@@ -1,0 +1,19 @@
+h1{
+  font-family: 'Spectral SC', monospace;
+  font-size:5vw;
+  color:#27342E;
+  text-align:center;
+}
+
+header {
+  background-color: #FBFBFF;
+  background-image:url("cranes.jpg");
+  padding:10vw 2em;
+  background-position: center center;
+  background-size: cover;
+}
+p{
+  font-family: 'Slabo 27px', serif;
+  font-size: 2vw;
+  color:#000;
+}
